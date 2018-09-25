@@ -1,4 +1,4 @@
-puts "Bienvenu sur ma super pyramide. Combien d'étages voudrais-tu ?"
+puts "Je peux faire une super pyramide. Combien d'étages voudrais-tu ?"
 print "> "
 user_choice = gets.chomp
 stage = user_choice.to_i
